@@ -1,2 +1,3 @@
-# Information-Security-with-HelmetJS
-This programming course focuses on HelmetJS, a type of middleware for Express-based applications that automatically sets HTTP headers. This way it can prevent sensitive information from unintentionally being passed between the server and client.
+# Information Security with HelmetJS
+
+This is the boilerplate for the Information Security lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
